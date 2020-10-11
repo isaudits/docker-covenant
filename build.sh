@@ -1,4 +1,4 @@
 #!/bin/bash
 
-docker build -t covenant .
+docker build -t isaudits/covenant .
 docker image prune -f
