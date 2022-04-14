@@ -17,4 +17,5 @@ ENTRYPOINT ["dotnet", "Covenant.dll"]
 
 ENV COVENANT_USERNAME="covenantadmin" \
     COVENANT_PASSWORD="dammitman!!!" \
-    COVENANT_COMPUTER_NAME="0.0.0.0"
+    COVENANT_COMPUTER_NAME="0.0.0.0" \
+    COVENANT_PORT="7443"
