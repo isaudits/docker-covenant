@@ -21,13 +21,11 @@ Default environment variables can be overridden via command line launch or .env 
 
 --------------------------------------------------------------------------------
 
-Copyright 20
+Copyright 2022
 
 Matthew C. Jones, CPA, CISA, OSCP, CCFE
 
-IS Audits & Consulting, LLC - <http://www.isaudits.com/>
-
-TJS Deemer Dana LLP - <http://www.tjsdd.com/>
+Symphona - <https://www.symphona.us/>
 
 --------------------------------------------------------------------------------
 
